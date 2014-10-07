@@ -1,3 +1,4 @@
+require 'rails_stats/stats'
 module RailsStats
-	require 'rails_stats/stats'
+
 end
