@@ -1,0 +1,2 @@
+module RailsStats
+end
